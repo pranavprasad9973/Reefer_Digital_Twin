@@ -82,5 +82,4 @@ Available: https://github.com/pranavprasad9973/Transtech_2026_Reefer_Digital_Twi
 ## Author
 
 **Pranav Amit Prasad** - 
-**Indian Maritime University, Kolkata** - 
-Transtech 2026
+**Indian Maritime University, Kolkata**
