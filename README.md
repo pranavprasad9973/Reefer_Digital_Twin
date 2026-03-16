@@ -74,7 +74,7 @@ Press **ESC** to exit full-screen mode.
 
 ```
 P. A. Prasad, “Digital Twin–Based Smart Reefer Container with Early Fault Detection,” GitHub repository, 2026.
-Available: https://github.com/pranavprasad9973/Transtech_2026_Reefer_Digital_Twin
+Available: https://github.com/pranavprasad9973/Reefer_Digital_Twin
 ```
 
 ---
