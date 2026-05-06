@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/24866787/README.md)
 # Digital Twin–Based Smart Reefer Container with Early Fault Detection
 
-This repository contains the complete implementation of a **digital twin simulation of a smart reefer container**, developed for **Transtech 2026**.  
+This repository contains the complete implementation of a **digital twin simulation of a smart reefer container**.  
 The system integrates **physics-based modeling**, **interactive fault injection**, **cargo risk assessment**, and **machine learning–based early fault detection** within a single real-time platform.
 
 ---
@@ -82,4 +82,4 @@ Available: https://github.com/pranavprasad9973/Reefer_Digital_Twin
 ## Author
 
 **Pranav Amit Prasad** - 
-**Indian Maritime University, Kolkata**
+**Indian Maritime University, Kolkata (erst. DMET/ MERI)**
